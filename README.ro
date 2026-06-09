@@ -1,0 +1,56 @@
+# Roman to Integer Converter
+
+A Python project that converts Roman numerals into their corresponding integer values.
+
+## Features
+
+* Converts Roman numerals to integers
+* Supports standard Roman numeral symbols:
+
+  * I = 1
+  * V = 5
+  * X = 10
+  * L = 50
+  * C = 100
+  * D = 500
+  * M = 1000
+* Handles subtraction cases such as:
+
+  * IV = 4
+  * IX = 9
+  * XL = 40
+  * XC = 90
+  * CD = 400
+  * CM = 900
+* User-friendly input and output
+
+## Technologies Used
+
+* Python
+
+## Example
+
+Input:
+XIV
+
+Output:
+14
+
+Input:
+MCMXCIV
+
+Output:
+1994
+
+## Learning Outcomes
+
+This project helped me understand:
+
+* Dictionaries in Python
+* Loops and conditional statements
+* String processing
+* Problem-solving and algorithm design
+
+## Author
+
+Mansi Phadtare
